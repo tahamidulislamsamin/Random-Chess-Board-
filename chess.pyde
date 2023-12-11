@@ -1,3 +1,7 @@
+#save these images in a seperate folder "data" where you will save this chess.pyde processing file (check example image)
+#install processing
+#images link : https://drive.google.com/drive/folders/1exfrQ5gqq76DvMBWRAjq3PbYTnSiv1-0?usp=sharing
+
 def setup():
     global white_pawn_1,white_pawn_2,white_pawn_3,white_pawn_4,white_pawn_5,white_pawn_6,white_pawn_7,white_pawn_8
     global black_pawn_1,black_pawn_2,black_pawn_3,black_pawn_4,black_pawn_5,black_pawn_6,black_pawn_7,black_pawn_8
