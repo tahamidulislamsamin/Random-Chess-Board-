@@ -54,6 +54,8 @@ def draw():
                        fill(237,225,242)
         
                 rect(i*100,j*100,100,100)
+
+    ''' paste here the output of chess_python.py file like this :
     image(white_pawn_1, 616.5, 716.5,62.5,62.5)
     image(white_rook_1, 16.5, 416.5,62.5,62.5)
     image(black_pawn_8, 16.5, 716.5,62.5,62.5)
@@ -69,4 +71,4 @@ def draw():
     image(white_pawn_6, 416.5, 416.5,62.5,62.5)
     image(black_bishop_2, 116.5, 716.5,62.5,62.5)
     image(white_pawn_3, 116.5, 416.5,62.5,62.5)
-    image(black_pawn_7, 616.5, 16.5,62.5,62.5)
+    image(black_pawn_7, 616.5, 16.5,62.5,62.5) '''
